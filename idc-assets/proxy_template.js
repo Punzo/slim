@@ -9,6 +9,9 @@ window.config = {
       write: false
     }
   ],
+  renderer: {
+    retrieveRendered: false
+  },
   annotations: [ ],
   disableWorklist: true,
   disableAnnotationTools: true
